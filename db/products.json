@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "name": "Tomatoes",
+    "price": "5.05",
+    "quantity": "100",
+    "imagePath": "./images/tomatoes.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Potatoes",
+    "price": "5.05",
+    "quantity": "100",
+    "imagePath": "./images/potatoes.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Onions",
+    "price": "5.05",
+    "quantity": "100",
+    "imagePath": "./images/onions.jpg"
+  },
+  {
+    "id": "pOSnxoaup",
+    "name": "Red pepper"
+  },
+  {
+    "id": "7Ls7l1VG_",
+    "name": "Pepper",
+    "price": "10.00",
+    "quantity": "50",
+    "imagePath": "https://www.shutterstock.com/image-photo/colourful-bell-peper-260nw-1162528267.jpg"
+  }
+]
